@@ -6,7 +6,7 @@ Fue desarrollado mediante un Jupyter Notebook el cual se ejecuto y desarrollo ut
 
 Dentro del desarrollo de este Notebook se encuentra el analisis exploratorio, limpieza y procesamiento de los datos. Junto a esto esta el desarrollo del modelo seleccionado para llevar a cabo la predicción solicitada.
 
-Para este caso en específico, luego de analizar los datos y su distribución es que se seleccionó predecir el dinero que moverá Xepelin en Octubre mediante la aplicacion de series de tiempo. En especifico, se aplico la librería Prophet, la cual es ampliamente utilizada para la predicción de series de tiempo en diferentes ambitos como por ejemplo las ventas.
+Para este caso en específico, luego de analizar los datos y su distribución es que se seleccionó predecir el dinero que moverá Xepelin en Octubre mediante la aplicacion de series de tiempo. Para ello, se aplico la librería Prophet, la cual es ampliamente utilizada para la predicción de series de tiempo en diferentes ambitos como por ejemplo las ventas.
 
 ## Supuestos
 
